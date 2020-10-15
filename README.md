@@ -1,14 +1,14 @@
-﻿# Crafty JS [![Travis Build Status](https://travis-ci.org/craftyjs/Crafty.svg?branch=develop)](https://travis-ci.org/craftyjs/Crafty) [![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/craftyjs/Crafty?svg=true&branch=develop)](https://ci.appveyor.com/project/starwed/crafty) [![Sauce Test Status](https://saucelabs.com/buildstatus/mucaho)](https://saucelabs.com/u/mucaho)
+﻿# Crafty JS [![Travis Build Status](https://travis-ci.org/craftyjs/Crafty.svg?branch=develop)](https://travis-ci.org/craftyjs/Crafty) [![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/craftyjs/Crafty?svg=true&branch=develop)](https://ci.appveyor.com/project/starwed/crafty) [![Sauce Test Status](https://saucelabs.com/buildstatus/mucaho)](https://saucelabs.com/u/mucaho).
 
 Crafty is a JavaScript game library that can help you create games in a structured way…
 
-Key Features:
+Key Features:-
 
 * Entities & Components - A clean and decoupled way to organize game elements. No inheritance needed!
 * Eventbinding - Event system for custom events that can be triggered whenever, whatever and bound just as easily.
 * No dom manipulation or custom drawing routines required.
 
-Other Goodies:
+Other Goodies:-
 
 * Thriving community - Help is readily available in the forum.
 * Community modules - A growing collection of user-generated code you can use.
@@ -19,7 +19,7 @@ Other Goodies:
 
 A simple game of pong:
 ```javascript
-Crafty.init(600, 300);
+Crafty.init(600, 300);-
 Crafty.background('rgb(127,127,127)');
 
 //Paddles
